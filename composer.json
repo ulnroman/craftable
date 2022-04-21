@@ -35,7 +35,7 @@
         }
     ],
     "require": {
-        "php": "^8.0.2",
+        "php": "^7.4.0|^8.0",
         "brackets/admin-auth": "^7.0",
         "brackets/admin-listing": "^3.0",
         "brackets/admin-translations": "^4.0",
@@ -62,7 +62,7 @@
             ]
         },
         "branch-alias": {
-            "dev-master": "8.0-dev"
+            "dev-master": "7.0-dev"
         }
     }
 }
