@@ -35,7 +35,7 @@
         }
     ],
     "require": {
-        "php": "^7.4.0|^8.0",
+        "php": "^7.4.0|^8.2",
         "brackets/admin-auth": "^7.0",
         "brackets/admin-listing": "^3.0",
         "brackets/admin-translations": "^4.0",
@@ -43,7 +43,7 @@
         "brackets/advanced-logger": "^2.0",
         "brackets/media": "^6.0",
         "brackets/translatable": "^2.0",
-        "illuminate/support": "^6.0|^7.0|^8.0",
+        "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0",
         "laravel/legacy-factories": "^1.1",
         "maatwebsite/excel": "^3.1"
     },
@@ -60,7 +60,7 @@
             ]
         },
         "branch-alias": {
-            "dev-master": "7.0-dev"
+            "dev-master": "8.2-dev"
         }
     }
 }
