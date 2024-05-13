@@ -41,7 +41,7 @@
         "brackets/admin-translations": "^4.0",
         "brackets/admin-ui": "^4.0",
         "brackets/advanced-logger": "^2.0",
-        "brackets/media": "^6.0",
+        "brackets/media": "^7.0",
         "brackets/translatable": "^2.0",
         "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0",
         "laravel/legacy-factories": "^1.1",
